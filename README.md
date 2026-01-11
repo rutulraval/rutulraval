@@ -171,7 +171,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/rutulraval/Automation_Total_Journey"><b>Automation_Total_Journey</b></a></td>
-<td>Contains different concepts along with screenshots and notes</td>
+<td>Contains different concepts along with screenshots and notes. Maven, Selenium, Lombok, HashMap, Generic Framework design, locators, restAPI xpath, xpath special functions, xpath axes locators, WebDriver commands, shadow DOM(Document Object Model), iFrames, Alert popups, Javascript executor, check box-radiobutton-dropdown, Dynamic Drop-down sorting, wait Date picker, Actions mouse events Keyboard Events, tooltip mousehover, </td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
