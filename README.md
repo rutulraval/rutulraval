@@ -174,7 +174,7 @@
 <td>Contains different concepts along with screenshots and notes. Maven, Selenium, Lombok, HashMap, Generic Framework design, locators, restAPI xpath, xpath special functions, xpath axes locators, WebDriver commands, shadow DOM(Document Object Model), iFrames, Alert popups, Javascript executor, check box-radiobutton-dropdown, Dynamic Drop-down sorting, wait Date picker, Actions mouse events Keyboard Events, tooltip mousehover, </td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/>Java, Javascript</td>
 </tr>
 <tr>
 <td><a href="https://github.com/rutulraval/Graded-assignment-Dashboard-with-IBM-Cognos-Capstone-Project"><b>Graded-assignment-Dashboard-with-IBM-Cognos-Capstone-Project</b></a></td>
