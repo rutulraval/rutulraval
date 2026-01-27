@@ -167,7 +167,7 @@
 <td>NHS Jobs Search User Centric Serarch</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Jupyter%20Notebook-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/rutulraval/Final-Assignment-Part-2---Create-Dashboard-with-Plotly-and-Dash"><b>Final-Assignment-Part-2---Create-Dashboard-with-Plotly-and-Dash</b></a></td>
