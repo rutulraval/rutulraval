@@ -31,7 +31,7 @@
 📍 **United Kingdom**
 
 
-🔭 Currently working on **[Test Task](https://github.com/rutulraval/Rutul--NHSBSA) [Automation_Total_Journey](https://github.com/rutulraval/Automation_Total_Journey)**
+🔭 Currently working on **[Test Task](https://github.com/rutulraval/Rutul--NHSBSA)  &  [Automation_Total_Journey](https://github.com/rutulraval/Automation_Total_Journey)**
                         
 
 💬 Ask me about **Test Automation**
@@ -163,6 +163,13 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/rutulraval/Rutul--NHSBSA"><b>NHS Jobs Search User Centric Serarch</b></a></td>
+<td>NHS Jobs Search User Centric Serarch</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/Jupyter%20Notebook-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
 <td><a href="https://github.com/rutulraval/Final-Assignment-Part-2---Create-Dashboard-with-Plotly-and-Dash"><b>Final-Assignment-Part-2---Create-Dashboard-with-Plotly-and-Dash</b></a></td>
 <td>The objective of this part of the Final Assignment is to ana...</td>
 <td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
@@ -179,13 +186,6 @@
 <tr>
 <td><a href="https://github.com/rutulraval/Graded-assignment-Dashboard-with-IBM-Cognos-Capstone-Project"><b>Graded-assignment-Dashboard-with-IBM-Cognos-Capstone-Project</b></a></td>
 <td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/rutulraval/Learning-guide-repository"><b>Learning-guide-repository</b></a></td>
-<td>To learn GIT & GITHUB , I am making this NEW (2nd) repositor...</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
