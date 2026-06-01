@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rutul%20Raval&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%7C%20QA%20Automation%20Engineer%20%7C%20ISTQB%20Certified&descAlignY=60&descSize=18&descColor=a8b2d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rutul%20Raval&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%7C%20QA%20Automation%20Engineer%20%7C%20AI%20Agent%20Developer%20%7C%20ISTQB%20Certified&descAlignY=60&descSize=16&descColor=a8b2d8" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=70a5fd&center=true&vCenter=true&width=600&lines=UI+%26+API+Test+Automation+Specialist;Java+%7C+Selenium+%7C+Playwright+Expert;Python+Data+Analytics+Enthusiast;CI%2FCD+Pipeline+Builder+%7C+Jenkins;ISTQB+Certified+Foundation+Level" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=70a5fd&center=true&vCenter=true&width=680&lines=UI+%26+API+Test+Automation+Specialist;Java+%7C+Selenium+%7C+Playwright+Expert;AI+Agent+Developer+%7C+AutoGen+%7C+MCP;Python+Data+Analytics+%7C+IBM+Certified;CI%2FCD+Pipeline+Builder+%7C+Jenkins;Java+OCA+Certified+Programmer;ISTQB+Certified+Foundation+Level" alt="Typing SVG"/>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rutulraval&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/rutulraval)
-[![Years on GitHub](https://img.shields.io/badge/11%2B_Years-On_GitHub-70a5fd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutulraval)
-[![ISTQB](https://img.shields.io/badge/ISTQB-Certified-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/📍-United_Kingdom-red?style=for-the-badge)](#)
+[![GitHub followers](https://img.shields.io/github/followers/rutulraval?style=for-the-badge&logo=github&logoColor=white&color=70a5fd&label=FOLLOWERS)](https://github.com/rutulraval?tab=followers)
+[![Repos](https://img.shields.io/badge/12%20Public%20%2B%20Private-Repositories-70a5fd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutulraval?tab=repositories)
+[![ISTQB](https://img.shields.io/badge/ISTQB-Certified-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](#certifications)
+[![Location](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-United_Kingdom-red?style=for-the-badge)](#)
 
 </div>
 
@@ -18,24 +19,43 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name        : Rutul Raval
-role        : SDET | QA Automation Engineer
-location    : United Kingdom 🇬🇧
-certification: ISTQB Foundation Level (CTFL)
-experience  : UI Automation · API Testing · CI/CD · Data Analytics
-focus       : Building scalable, maintainable test automation frameworks
-open_to     : Freelance · Collaboration · New Opportunities
+name         : Rutul Raval
+role         : SDET | QA Automation Engineer | AI Agent Developer
+location     : United Kingdom 🇬🇧
+certifications:
+  - ISTQB Foundation Level (CTFL)
+  - IBM Data Science Professional Certificate
+  - Java OCA SE 8 (1Z0-808) — In Progress
+domains      :
+  - UI & API Test Automation  (Java · Selenium · Playwright · REST Assured)
+  - AI Coding Agents          (AutoGen · MCP · Tavily · Gemini)
+  - Python Data Analytics     (Plotly · Dash · Pandas · IBM Cognos)
+  - Java Certification Study  (OCA SE 8 · OOP · Lambdas · Collections)
+focus        : Scalable test frameworks + agentic AI workflows
+open_to      : Freelance · Collaboration · New Opportunities
 ```
 
-- 🔭 Currently working on **[NHS BSA Test Automation](https://github.com/rutulraval/Rutul--NHSBSA)** & **[Automation Total Journey](https://github.com/rutulraval/Automation_Total_Journey)**
-- 🧪 Specialising in **end-to-end UI & API test automation** using Java, Selenium & Playwright
-- 📊 Exploring **Python data analytics** via IBM certifications
-- 💬 Ask me about **Selenium, Playwright, REST Assured, Jenkins CI/CD, BDD/Cucumber**
-- 🤝 Open to **freelance** & **collaboration** opportunities
+- 🔭 **Latest:** **[AI Coding Agents — AutoGen + MCP + Tavily](https://github.com/rutulraval/ai-coding-agents-autogen)** — hands-on Python demos for building agentic AI workflows
+- ☕ **Studying:** **[Java OCA Certification](https://github.com/rutulraval/java-oca-certification-study)** — Oracle Certified Associate Java SE 8 (1Z0-808)
+- 🧪 **Specialising in:** end-to-end UI & API test automation with Java, Selenium & Playwright
+- 🤖 **Exploring:** AI agent patterns — MCP tool integration, multi-agent teams, human-in-the-loop
+- 📊 **Certified in:** Python data analytics via IBM Professional Certificate program
+- 💬 **Ask me about:** Selenium · Playwright · REST Assured · Jenkins CI/CD · BDD/Cucumber · AutoGen
+- 🤝 **Open to:** freelance & collaboration opportunities
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🤖 AI Agents & LLM Tooling *(New)*
+
+<p>
+  <img src="https://img.shields.io/badge/AutoGen-FF6B35?style=for-the-badge&logo=python&logoColor=white" alt="AutoGen"/>
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Tavily-Web_Search_API-10B981?style=for-the-badge&logo=searchengin&logoColor=white" alt="Tavily"/>
+  <img src="https://img.shields.io/badge/Gemini-2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/OpenAI_Compatible-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Compatible"/>
+</p>
 
 ### 🧪 Test Automation & QA
 
@@ -46,7 +66,7 @@ open_to     : Freelance · Collaboration · New Opportunities
   <img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
   <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testing-library&logoColor=white" alt="TestNG"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/BDD-Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD"/>
+  <img src="https://img.shields.io/badge/BDD_Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD"/>
 </p>
 
 ### 💻 Languages
@@ -83,6 +103,7 @@ open_to     : Freelance · Collaboration · New Opportunities
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Log4j-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Log4j"/>
@@ -92,47 +113,75 @@ open_to     : Freelance · Collaboration · New Opportunities
 
 ## 📊 Repository Tech Stack Distribution
 
-> Breakdown based on **10 repositories** across two primary domains:
+> Breakdown across **12 repositories** (9 public · 3 private) spanning 4 domains:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Test Automation (52% of repos)
-| Technology | Usage |
+### ⚙️ Test Automation — 4 repos
+| Technology | Presence |
 |---|---|
-| Java | ![55%](https://img.shields.io/badge/55%25-ED8B00?style=flat-square) |
-| Selenium WebDriver | ![30%](https://img.shields.io/badge/30%25-43B02A?style=flat-square) |
-| Maven / pom.xml | ![20%](https://img.shields.io/badge/20%25-C71A36?style=flat-square) |
-| REST Assured | ![15%](https://img.shields.io/badge/15%25-4CAF50?style=flat-square) |
-| Playwright | ![15%](https://img.shields.io/badge/15%25-45ba4b?style=flat-square) |
-| Jenkins / CI | ![10%](https://img.shields.io/badge/10%25-D24939?style=flat-square) |
+| Java | ![Java](https://img.shields.io/badge/Primary_Language-ED8B00?style=flat-square&logoColor=white) |
+| Selenium WebDriver | ![Selenium](https://img.shields.io/badge/Core_Framework-43B02A?style=flat-square&logoColor=white) |
+| Playwright | ![Playwright](https://img.shields.io/badge/UI_%26_API-45ba4b?style=flat-square&logoColor=white) |
+| REST Assured | ![REST](https://img.shields.io/badge/API_Testing-4CAF50?style=flat-square&logoColor=white) |
+| Maven / TestNG | ![Maven](https://img.shields.io/badge/Build_%26_Runner-C71A36?style=flat-square&logoColor=white) |
+| Jenkins / CI | ![Jenkins](https://img.shields.io/badge/CI_Pipeline-D24939?style=flat-square&logoColor=white) |
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Data Analytics (40% of repos)
-| Technology | Usage |
+### 📈 Data Analytics — 4 repos
+| Technology | Presence |
 |---|---|
-| Python | ![75%](https://img.shields.io/badge/75%25-3776AB?style=flat-square) |
-| Jupyter Notebooks | ![20%](https://img.shields.io/badge/20%25-F37626?style=flat-square) |
-| Plotly / Dash | ![20%](https://img.shields.io/badge/20%25-3F4F75?style=flat-square) |
-| Pandas / NumPy | ![10%](https://img.shields.io/badge/10%25-150458?style=flat-square) |
-| IBM Cognos | ![80%](https://img.shields.io/badge/80%25-052FAD?style=flat-square) |
-| SQL / Data | ![15%](https://img.shields.io/badge/15%25-4479A1?style=flat-square) |
+| Python | ![Python](https://img.shields.io/badge/Primary_Language-3776AB?style=flat-square&logoColor=white) |
+| Jupyter Notebooks | ![Jupyter](https://img.shields.io/badge/Analysis_Environment-F37626?style=flat-square&logoColor=white) |
+| Plotly / Dash | ![Plotly](https://img.shields.io/badge/Visualisation-3F4F75?style=flat-square&logoColor=white) |
+| Pandas / NumPy | ![Pandas](https://img.shields.io/badge/Data_Processing-150458?style=flat-square&logoColor=white) |
+| IBM Cognos | ![Cognos](https://img.shields.io/badge/BI_Dashboard-052FAD?style=flat-square&logoColor=white) |
+| SQL | ![SQL](https://img.shields.io/badge/Data_Queries-4479A1?style=flat-square&logoColor=white) |
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents — 1 repo *(New)*
+| Technology | Presence |
+|---|---|
+| Python + AutoGen | ![AutoGen](https://img.shields.io/badge/Agent_Framework-FF6B35?style=flat-square&logoColor=white) |
+| MCP (Playwright) | ![MCP](https://img.shields.io/badge/Browser_Automation-6B4FBB?style=flat-square&logoColor=white) |
+| MCP (Filesystem) | ![MCP FS](https://img.shields.io/badge/File_Access-6B4FBB?style=flat-square&logoColor=white) |
+| Tavily Search | ![Tavily](https://img.shields.io/badge/Web_Search_Tool-10B981?style=flat-square&logoColor=white) |
+| Gemini 2.5 Flash | ![Gemini](https://img.shields.io/badge/LLM_Backend-4285F4?style=flat-square&logoColor=white) |
+| asyncio / dotenv | ![Async](https://img.shields.io/badge/Async_%26_Config-3776AB?style=flat-square&logoColor=white) |
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Java Certification — 1 repo *(New)*
+| Technology | Presence |
+|---|---|
+| Java SE 8 | ![Java](https://img.shields.io/badge/Core_Language-ED8B00?style=flat-square&logoColor=white) |
+| OCA 1Z0-808 | ![OCA](https://img.shields.io/badge/Target_Exam-F80000?style=flat-square&logoColor=white) |
+| OOP Patterns | ![OOP](https://img.shields.io/badge/Design_Patterns-43B02A?style=flat-square&logoColor=white) |
+| Lambdas / Streams | ![Lambda](https://img.shields.io/badge/Java_8_Features-F7DF1E?style=flat-square&logoColor=black) |
+| IntelliJ IDEA | ![IntelliJ](https://img.shields.io/badge/IDE-000000?style=flat-square&logoColor=white) |
+| Enthuware Mocks | ![Mock](https://img.shields.io/badge/Mock_Exams-9B59B6?style=flat-square&logoColor=white) |
 
 </td>
 </tr>
 </table>
 
-**Overall language split across all repositories:**
+**Overall language distribution across all public repositories:**
 
 ```
-Java          ████████████████░░░░  ~42%   (Test Automation)
-Python        ████████████░░░░░░░░  ~33%   (Data Analytics)
-Docs/Notes    ████░░░░░░░░░░░░░░░░  ~14%   (Knowledge Base)
-Markdown      ██░░░░░░░░░░░░░░░░░░   ~5%   (Documentation)
-Other         ██░░░░░░░░░░░░░░░░░░   ~6%   (Config, SQL, XML)
+Java          ████████████████░░░░░░  ~35%   (Test Automation · OCA Study)
+Python        ████████████████░░░░░░  ~35%   (AI Agents · Data Analytics)
+Docs/Notes    ██████░░░░░░░░░░░░░░░░  ~18%   (OCA Study · Knowledge Base)
+Markdown      ███░░░░░░░░░░░░░░░░░░░   ~7%   (READMEs · Documentation)
+Other         ███░░░░░░░░░░░░░░░░░░░   ~5%   (XML · SQL · Config · JSON)
 ```
 
 ---
@@ -141,6 +190,12 @@ Other         ██░░░░░░░░░░░░░░░░░░   ~6%
 
 <div align="center">
 
+<a href="https://github.com/rutulraval/ai-coding-agents-autogen">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rutulraval&repo=ai-coding-agents-autogen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AI Coding Agents"/>
+</a>
+<a href="https://github.com/rutulraval/java-oca-certification-study">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rutulraval&repo=java-oca-certification-study&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Java OCA Study"/>
+</a>
 <a href="https://github.com/rutulraval/Rutul--NHSBSA">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rutulraval&repo=Rutul--NHSBSA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="NHS BSA"/>
 </a>
@@ -163,7 +218,7 @@ Other         ██░░░░░░░░░░░░░░░░░░   ~6%
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutulraval&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutulraval&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=6" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutulraval&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -175,24 +230,24 @@ Other         ██░░░░░░░░░░░░░░░░░░   ~6%
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rutulraval&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rutulraval&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements <a name="certifications"></a>
 
 <div align="center">
 
 | 🎖️ Certification / Achievement | 🏢 Issuer | ✅ Status |
 |:---|:---|:---:|
-| ISTQB® Certified Tester – Foundation Level | ISTQB | ✅ Certified |
+| ISTQB® Certified Tester – Foundation Level (CTFL) | ISTQB | ✅ Certified |
 | IBM Data Science Professional Certificate | IBM / Coursera | ✅ Completed |
-| Python for Data Science & AI | IBM | ✅ Completed |
-| Data Visualization with Python (Plotly & Dash) | IBM | ✅ Completed |
-| Data Analytics Capstone Project (IBM Cognos) | IBM | ✅ Completed |
-| 11+ Years Active on GitHub | GitHub | ✅ Unlocked |
+| Python for Data Science & AI | IBM / Coursera | ✅ Completed |
+| Data Visualization with Python (Plotly & Dash) | IBM / Coursera | ✅ Completed |
+| Data Analytics Capstone Project (IBM Cognos) | IBM / Coursera | ✅ Completed |
+| Java OCA SE 8 Programmer (1Z0-808) | Oracle | 🔄 In Progress |
 
 </div>
 
@@ -202,14 +257,17 @@ Other         ██░░░░░░░░░░░░░░░░░░   ~6%
 
 | 🚀 Repository | 🏷️ Domain | 💻 Primary Stack | 🔒 |
 |:---|:---|:---|:---:|
-| [Rutul--NHSBSA](https://github.com/rutulraval/Rutul--NHSBSA) | ⚙️ Test Automation | Java · Selenium · Maven · BDD | 🌐 |
-| [Automation_Total_Journey](https://github.com/rutulraval/Automation_Total_Journey) | ⚙️ Test Automation | Java · Selenium · Playwright · REST API | 🌐 |
+| [ai-coding-agents-autogen](https://github.com/rutulraval/ai-coding-agents-autogen) | 🤖 AI Agents | Python · AutoGen · MCP · Tavily · Gemini | 🌐 |
+| [java-oca-certification-study](https://github.com/rutulraval/java-oca-certification-study) | ☕ Java Cert | Java SE 8 · OCA 1Z0-808 · OOP · Lambdas | 🌐 |
+| [Rutul--NHSBSA](https://github.com/rutulraval/Rutul--NHSBSA) | ⚙️ Test Automation | Java · Selenium · Maven · BDD/Cucumber | 🌐 |
+| [Automation_Total_Journey](https://github.com/rutulraval/Automation_Total_Journey) | ⚙️ Test Automation | Java · Selenium · Playwright · REST Assured | 🌐 |
 | [Plotly & Dash Dashboard](https://github.com/rutulraval/Final-Assignment-Part-2---Create-Dashboard-with-Plotly-and-Dash) | 📊 Data Analytics | Python · Plotly · Dash · Pandas | 🌐 |
 | [House Pricing Analytics](https://github.com/rutulraval/Lab-for-Final-Project---Data-Analytics-for-House-Pricing-Data-Set) | 📊 Data Analytics | Python · Jupyter · Scikit-learn · Pandas | 🌐 |
 | [IBM Final Assignment](https://github.com/rutulraval/Final-Assignment-IBM) | 📊 Data Science | Python · Jupyter · IBM Watson | 🌐 |
 | [IBM Cognos Dashboard](https://github.com/rutulraval/Graded-assignment-Dashboard-with-IBM-Cognos-Capstone-Project) | 📊 BI / Analytics | IBM Cognos · SQL | 🌐 |
-| Jenkins Demo | ⚙️ CI/CD · API Testing | Java · Maven · REST Assured · Jenkins · log4j | 🔒 |
-| Employment | 📁 Personal Storage | Docs · PDF · CV | 🔒 |
+| Jenkins Demo | ⚙️ CI/CD · API Testing | Java · Maven · REST Assured · Jenkins | 🔒 |
+| Employment | 📁 Personal Docs | CV · PDF · Documents | 🔒 |
+| Pp | 📁 Personal | Private content | 🔒 |
 
 ---
 
@@ -219,11 +277,11 @@ Other         ██░░░░░░░░░░░░░░░░░░   ~6%
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutulraval)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutulraval)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutulraval@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutul.5085@gmail.com)
 
 <br/>
 
-**💬 I'm always open to discussing test automation, QA best practices, and new opportunities!**
+**💬 Always happy to discuss test automation, AI agents, QA best practices, and new opportunities!**
 
 </div>
 
