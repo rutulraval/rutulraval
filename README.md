@@ -10,7 +10,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/rutulraval?style=for-the-badge&logo=github&logoColor=white&color=70a5fd&label=FOLLOWERS)](https://github.com/rutulraval?tab=followers)
 [![Repos](https://img.shields.io/badge/12%20Public%20%2B%20Private-Repositories-70a5fd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutulraval?tab=repositories)
 [![ISTQB](https://img.shields.io/badge/ISTQB-Certified-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](#certifications)
-[![Location](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-United_Kingdom-red?style=for-the-badge)](#)
+
 
 </div>
 
@@ -21,7 +21,7 @@
 ```yaml
 name         : Rutul Raval
 role         : SDET | QA Automation Engineer | AI Agent Developer
-location     : United Kingdom 🇬🇧
+
 certifications:
   - ISTQB Foundation Level (CTFL)
   - IBM Data Science Professional Certificate
